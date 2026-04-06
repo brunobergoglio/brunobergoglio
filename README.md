@@ -4,7 +4,6 @@
 
 I build digital products that combine solid architecture, fast execution, thoughtful design, and real business value.
 
-🌍 Based in Córdoba, Argentina  
 🚀 Building products, automations, and AI-powered workflows  
 🎯 Focused on scalable web apps, product systems, and high-impact user experiences
 
